@@ -22,7 +22,7 @@
     "pyplejd"
   ],
   "requirements": [
-    "pyplejd==0.22.0",
+    "pyplejd @ https://github.com/clsjon/pyplejd/archive/b6c48640425f89f9d58fffc0b775650288c38924.tar.gz",
     "pydantic"
   ],
   "version": "0.22.0"
